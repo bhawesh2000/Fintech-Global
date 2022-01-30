@@ -1,0 +1,27 @@
+.top
+{
+    border-bottom: 1px ridge;
+}
+.jumbotron {
+    margin: 10px auto;
+    padding: 70px 30px;
+    background-color: #8154ce;
+    color: floralwhite; 
+    justify-content: center;
+}
+
+    
+.row-header {
+    margin: 0px auto;
+    padding: 0px 0px; 
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+}
+
+.row-content {
+    padding: 50px 20px;
+    border-bottom: 1px ridge;
+    min-height: 400px; 
+    background-color: rgb(143, 146, 197);
+}
